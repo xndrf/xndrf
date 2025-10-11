@@ -1,4 +1,6 @@
-# Александр Федоров
+
+
+# Александр Федоров <img width="40" height="40" src="https://img.icons8.com/plasticine/100/github.png" alt="github"/>
 ### Data Scientist / Machine Learning Engineer
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -18,7 +20,7 @@
 [![Threads](https://img.shields.io/badge/Threads-@xndr.f-FFFFFF?style=flat&logo=threads&logoColor=black)](https://threads.net/@xndr.f)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 🛠 Skills
+## Skills <img width="40" height="40" src="https://img.icons8.com/plasticine/100/parallel-tasks.png" alt="parallel-tasks"/>
 
 | Category | Skills |
 |----------|--------|
@@ -38,7 +40,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 💼 Projects
+##  Projects <img width="40" height="40" src="https://img.icons8.com/plasticine/100/checklist.png" alt="checklist"/>
 
 | № | Название проекта | Описание | Используемые технологии |
 |:---:|:----------------|:---------|:-----------------------|
@@ -48,7 +50,7 @@
 | 4 | **[Kaggle: Predicting a Biological Response](https://github.com/xndrf/Data_Science_Project/tree/master/Predicting_a_Biological_Response)** | Предсказание биологического ответа молекул по их химическому составу | <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-2E8B57?style=flat&logo=chart-dots&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Optuna-2B5BAA?style=flat&logo=chart-line&logoColor=white"/> <img src="https://img.shields.io/badge/Hyperopt-FF6B6B?style=flat&logo=lightning&logoColor=white"/> |
 | 5 | **[Классификация клиентов банка](https://github.com/xndrf/Data_Science_Project/tree/master/Bank_deposit)** | Модель для предсказания согласия клиента на открытие депозита | <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-2E8B57?style=flat&logo=chart-dots&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Optuna-2B5BAA?style=flat&logo=chart-line&logoColor=white"/> |
 
-> 📁 **Все проекты доступны в [репозитории Data Science Project](https://github.com/xndrf/Data_Science_Project)**
+> <img width="20" height="20" src="https://img.icons8.com/plasticine/100/ingredients-list.png" alt="ingredients-list"/> **Все проекты доступны в [репозитории Data Science Project](https://github.com/xndrf/Data_Science_Project)**
 
 <br>
 
