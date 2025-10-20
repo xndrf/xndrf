@@ -1,16 +1,5 @@
-
-
 # Александр Федоров <img width="40" height="40" src="https://img.icons8.com/plasticine/100/github.png" alt="github"/>
 ### Data Scientist / Machine Learning Engineer
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-**Data Scientist с фундаментальной подготовкой в математике и статистике.** Имею опыт в **end-to-end Machine Learning**: от исследования данных и feature engineering до внедрения масштабируемых inference-решений и проведения A/B-тестов. Владею классическим ML и глубоким обучением, с опытом работы в **NLP** и **временными рядами**.
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-**Data Scientist with robust mathematical and statistical background.** Expertise in **end-to-end Machine Learning pipelines** - from data investigation and feature engineering to implementing scalable inference solutions and performing A/B testing. Skilled in **classical machine learning** and **deep learning frameworks**, with practical experience in **Natural Language Processing** and **time series forecasting**.
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 [![Telegram](https://img.shields.io/badge/Telegram-@xndrf-2CA5E0?style=flat&logo=telegram)](https://t.me/xndrf)
 [![Email](https://img.shields.io/badge/Email-xndrf@list.ru-D14836?style=flat&logo=gmail)](mailto:xndrf@list.ru)
@@ -19,6 +8,59 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@xndr.f-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/xndr.f)
 [![Threads](https://img.shields.io/badge/Threads-@xndr.f-FFFFFF?style=flat&logo=threads&logoColor=black)](https://threads.net/@xndr.f)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+**Data Scientist с фундаментальной подготовкой в математике и статистике.** Имею опыт в **end-to-end Machine Learning**: от исследования данных и feature engineering до внедрения масштабируемых inference-решений и проведения A/B-тестов. Владею классическим ML и глубоким обучением, с опытом работы в **NLP** и **временными рядами**.
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+**Data Scientist with robust mathematical and statistical background.** Expertise in **end-to-end Machine Learning pipelines** - from data investigation and feature engineering to implementing scalable inference solutions and performing A/B testing. Skilled in **classical machine learning** and **deep learning frameworks**, with practical experience in **Natural Language Processing** and **time series forecasting**.
+
+## 🎓 Академические достижения
+
+<details>
+<summary><b>🎓 Образование</b></summary>
+
+[![Диссертация кандидата технических наук](https://img.shields.io/badge/📖_Диссертация_кандидата_технических_наук-Горное_дело-2E8B57?style=flat-square&logo=graduation-cap)](https://spmi.ru/fedorov-aleksandr-sergeevich)
+
+</details>
+
+<details>
+<summary><b>📚 Научные работы</b></summary>
+
+• [Analysis of the screw press mouthpiece parameters for 3D extrusion of peat pieces of tubular type](https://pmi.spmi.ru/index.php/pmi/article/view/14693) <img src="https://img.shields.io/badge/🔬_Q2-28a745?style=flat-square" alt="Q2"> 
+  
+• [The Relationship between Fractal Properties and Active Porosity of Peat Compositions](https://www.scientific.net/KEM.836.58) <img src="https://img.shields.io/badge/🔬_Q2-28a745?style=flat-square" alt="Q3"> 
+
+• [Preliminary study of tubular peat extrusion](https://iopscience.iop.org/article/10.1088/1757-899X/560/1/012061) <img src="https://img.shields.io/badge/🔬_Q2-28a745?style=flat-square" alt="Q4"> 
+
+• [Параметры мундштука шнекового пресса с учетом требований к торфяной формованной продукции](https://www.elibrary.ru/item.asp?id=42723156) <img src="https://img.shields.io/badge/🎓_ВАК-FFD700?style=flat-square&color=FFD700" alt="ВАК"> 
+
+• [Механическая переработка торфяного сырья при формовании в составном мундштуке шнекового пресса](https://www.elibrary.ru/item.asp?id=45586333) <img src="https://img.shields.io/badge/🎓_ВАК-FFD700?style=flat-square&color=FFD700" alt="ВАК"> 
+
+• [Эффективность карьерной добычи торфа с полевым механическим обезвоживанием](https://www.elibrary.ru/item.asp?id=38467814) <img src="https://img.shields.io/badge/🎓_ВАК-FFD700?style=flat-square&color=FFD700" alt="ВАК"> 
+
+• [Направления интенсификации сушки торфяной окускованной продукции в полевых условиях](https://www.elibrary.ru/item.asp?id=36768137) <img src="https://img.shields.io/badge/📖_РИНЦ-9370DB?style=flat-square" alt="РИНЦ"> 
+
+• [Анализ условий полевого производства окускованной торфяной продукции](https://www.elibrary.ru/item.asp?id=32701336) <img src="https://img.shields.io/badge/📖_РИНЦ-9370DB?style=flat-square" alt="РИНЦ"> 
+
+• [Перспективы распределенной энергетики на торфяном топливе](https://www.elibrary.ru/item.asp?id=30650669) <img src="https://img.shields.io/badge/📖_РИНЦ-9370DB?style=flat-square" alt="РИНЦ"> 
+
+• [Устройство для формирования торфяного сырья в трубчатые куски](https://www.elibrary.ru/item.asp?id=42484047) <img src="https://img.shields.io/badge/⚙️_ПАТЕНТ-dc3545?style=flat-square" alt="ПАТЕНТ"> 
+
+• [Устройство защиты штока гидроцилиндра экскаватора от запыленности](https://www.elibrary.ru/item.asp?id=50273289) <img src="https://img.shields.io/badge/⚙️_ПАТЕНТ-dc3545?style=flat-square" alt="ПАТЕНТ">
+
+• [Укладчик торфяных трубчатых кусков шнекового формователя](https://patents.google.com/patent/RU201925U1/ru) <img src="https://img.shields.io/badge/⚙️_ПАТЕНТ-dc3545?style=flat-square" alt="ПАТЕНТ">
+
+• [Устройство для подбора и метания торфяного сырья](https://rusneb.ru/catalog/000224_000128_0000202336_20210211_U1_RU/?ysclid=mgzio3dufj899188687) <img src="https://img.shields.io/badge/⚙️_ПАТЕНТ-dc3545?style=flat-square" alt="ПАТЕНТ"> 
+
+</details>
+
+<details>
+<summary><b>🏆 Сертификаты</b></summary>
+
+[![Data Science](https://img.shields.io/badge/📜_Data_Science-SkillFactory-FF6B6B?style=flat-square&logo=python)](https://github.com/xndrf/Certificates)
+
+</details>
 
 ## Skills <img width="40" height="40" src="https://img.icons8.com/plasticine/100/parallel-tasks.png" alt="parallel-tasks"/>
 
