@@ -52,7 +52,12 @@
 <details>
 <summary><b>🎓 Образование</b></summary>
 
-[![Диссертация кандидата технических наук](https://img.shields.io/badge/📖_Диссертация_кандидата_технических_наук-Горное_дело-2E8B57?style=flat-square&logo=graduation-cap)](https://spmi.ru/fedorov-aleksandr-sergeevich)
+[![Диссертация кандидата технических наук](https://img.shields.io/badge/📖_Диссертация_кандидата_технических_наук-Горный_университет-2E8B57?style=flat-square&logo=graduation-cap)](https://spmi.ru/fedorov-aleksandr-sergeevich)
+
+[![Data Science](https://img.shields.io/badge/📜Профессия_Data_Science-SkillFactory-FF6B6B?style=flat-square&logo=python)](https://github.com/xndrf/Certificates)
+
+[![Курс Microsoft Excel](https://img.shields.io/badge/📊_Курс_Microsoft_Excel-Анализ_данных,_большие_и_сводные_таблицы-FFD700?style=flat-square&logo=microsoftexcel)](https://github.com/xndrf/Certificates)
+
 
 </details>
 
