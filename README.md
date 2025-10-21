@@ -98,7 +98,8 @@
 <details>
 <summary><b>🏆 Сертификаты</b></summary>
 
-[![Data Science](https://img.shields.io/badge/📜_Data_Science-SkillFactory-FF6B6B?style=flat-square&logo=python)](https://github.com/xndrf/Certificates)
+
+| ![Стажировка 2engine](https://github.com/xndrf/Data_Science_Project/blob/master/Certificates/2engine.jpg) |
 
 </details>
 
