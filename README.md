@@ -69,9 +69,9 @@
 
 • [Analysis of the screw press mouthpiece parameters for 3D extrusion of peat pieces of tubular type](https://pmi.spmi.ru/index.php/pmi/article/view/14693) <img src="https://img.shields.io/badge/🔬_Q2-28a745?style=flat-square" alt="Q2"> 
   
-• [The Relationship between Fractal Properties and Active Porosity of Peat Compositions](https://www.scientific.net/KEM.836.58) <img src="https://img.shields.io/badge/🔬_Q2-28a745?style=flat-square" alt="Q3"> 
+• [The Relationship between Fractal Properties and Active Porosity of Peat Compositions](https://www.scientific.net/KEM.836.58) <img src="https://img.shields.io/badge/🔬_Q3-28a745?style=flat-square" alt="Q3"> 
 
-• [Preliminary study of tubular peat extrusion](https://iopscience.iop.org/article/10.1088/1757-899X/560/1/012061) <img src="https://img.shields.io/badge/🔬_Q2-28a745?style=flat-square" alt="Q4"> 
+• [Preliminary study of tubular peat extrusion](https://iopscience.iop.org/article/10.1088/1757-899X/560/1/012061) <img src="https://img.shields.io/badge/🔬_Q4-28a745?style=flat-square" alt="Q4"> 
 
 • [Параметры мундштука шнекового пресса с учетом требований к торфяной формованной продукции](https://www.elibrary.ru/item.asp?id=42723156) <img src="https://img.shields.io/badge/🎓_ВАК-FFD700?style=flat-square&color=FFD700" alt="ВАК"> 
 
