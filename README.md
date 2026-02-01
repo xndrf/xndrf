@@ -2,6 +2,7 @@
 ### Data Scientist / Machine Learning Engineer
 
 [![Telegram](https://img.shields.io/badge/Telegram-@xndrf-2CA5E0?style=flat&logo=telegram)](https://t.me/xndrf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Александр_Федоров-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/александр-федоров-750225129/)
 [![Email](https://img.shields.io/badge/Email-xndrf@list.ru-D14836?style=flat&logo=gmail)](mailto:xndrf@list.ru)
 [![GitHub](https://img.shields.io/badge/GitHub-xndrf-181717?style=flat&logo=github)](https://github.com/xndrf)
 [![Kaggle](https://img.shields.io/badge/Kaggle-xndrfd-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/xndrfd)
