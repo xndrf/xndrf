@@ -98,8 +98,11 @@
 <details>
 <summary><b>🏆 Сертификаты</b></summary>
 
-
+| ![sf_rus]([https://github.com/xndrf/Data_Science_Project/blob/master/Certificates/2engine.jpg](https://github.com/xndrf/Data_Science_Project/blob/master/Certificates/sf.jpg)) |
+| ![sf_eng]([https://github.com/xndrf/Data_Science_Project/blob/master/Certificates/2engine.jpg](https://github.com/xndrf/Data_Science_Project/blob/master/Certificates/sf_eng.jpg)) |
 | ![Стажировка 2engine](https://github.com/xndrf/Data_Science_Project/blob/master/Certificates/2engine.jpg) |
+| ![Docker]([https://github.com/xndrf/Data_Science_Project/blob/master/Certificates/2engine.jpg](https://github.com/xndrf/Data_Science_Project/blob/master/Certificates/docker.jpg)) |
+| ![ALG]([https://github.com/xndrf/Data_Science_Project/blob/master/Certificates/2engine.jpg](https://github.com/xndrf/Data_Science_Project/blob/master/Certificates/alg.jpg)) |
 
 </details>
 
