@@ -81,6 +81,8 @@
 
 [![Диссертация кандидата технических наук](https://img.shields.io/badge/📖_Диссертация_кандидата_технических_наук-Горный_университет-2E8B57?style=flat-square&logo=graduation-cap)](https://spmi.ru/fedorov-aleksandr-sergeevich)
 
+[![Яндекс Практикум](https://img.shields.io/badge/🔴_Яндекс_Практикум-Инженер_по_глубокому_обучению_(NLP)-FC3F1D?style=flat-square)](https://github.com/xndrf/Certificates)
+
 [![Курс ODS — LLM](https://img.shields.io/badge/📖_Курс_ODS-LLM:_От_понимания_к_продукту-2B5BAA?style=flat-square)](https://github.com/xndrf/Certificates)
 
 [![Data Science](https://img.shields.io/badge/📜Профессия_Data_Science-SkillFactory-FF6B6B?style=flat-square&logo=python)](https://github.com/xndrf/Certificates)
