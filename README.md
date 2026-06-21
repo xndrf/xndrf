@@ -16,11 +16,11 @@
 
 </div>
 
-**Data Scientist / ML Engineer (NLP · LLM)** с фундаментальной математической и статистической подготовкой (к.т.н.). Опыт **end-to-end Machine Learning** — от исследования данных и feature engineering до обучения моделей и внедрения масштабируемых inference-решений. Помимо классического ML, градиентного бустинга и **A/B-тестов**, работаю с глубоким обучением и современным **NLP / LLM**-стеком: обучение языковых моделей (**pretrain с нуля + SFT**), **RAG** и семантический поиск (bi-encoder + FAISS + reranker), **мультимодальные** модели (CLIP, DeBERTa + ConvNeXt), multi-task NER.
+**Data Scientist / ML Engineer (NLP · LLM)** с фундаментальной математической и статистической подготовкой (к.т.н.). Опыт **end-to-end Machine Learning** - от исследования данных и feature engineering до обучения моделей и внедрения масштабируемых inference-решений. Помимо классического ML, градиентного бустинга и **A/B-тестов**, работаю с глубоким обучением и современным **NLP / LLM**-стеком: обучение языковых моделей (**pretrain с нуля + SFT**), **RAG** и семантический поиск (bi-encoder + FAISS + reranker), **мультимодальные** модели (CLIP, DeBERTa + ConvNeXt), multi-task NER.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,30&height=3&section=header" />
 
-**Data Scientist / ML Engineer (NLP · LLM)** with a strong mathematical and statistical background (PhD). Experienced in **end-to-end ML pipelines** — from data investigation and feature engineering to model training and scalable inference deployment. Beyond classical ML, gradient boosting and **A/B testing**, I work with deep learning and a modern **NLP / LLM** stack: training language models (**pretrain from scratch + SFT**), **RAG** and semantic search (bi-encoder + FAISS + reranker), **multimodal** models (CLIP, DeBERTa + ConvNeXt), and multi-task NER.
+**Data Scientist / ML Engineer (NLP · LLM)** with a strong mathematical and statistical background (PhD). Experienced in **end-to-end ML pipelines** - from data investigation and feature engineering to model training and scalable inference deployment. Beyond classical ML, gradient boosting and **A/B testing**, I work with deep learning and a modern **NLP / LLM** stack: training language models (**pretrain from scratch + SFT**), **RAG** and semantic search (bi-encoder + FAISS + reranker), **multimodal** models (CLIP, DeBERTa + ConvNeXt), and multi-task NER.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,30&height=3&section=header" />
 
 ## <img width="32" height="32" src="https://img.icons8.com/3d-fluency/94/brain.png"/> Skills
